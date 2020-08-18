@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\wideb\onedrive\tài liệu\visual studio 2015\projects\project1\project1\source.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wideb\onedrive\tài liệu\visual studio 2015\projects\project1\project1\source.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wideb\onedrive\tài liệu\visual studio 2015\projects\project1\project1\source.cpp(302): warning C4715: 'docfile': not all control paths return a value
+  Project1.vcxproj -> C:\Users\wideb\OneDrive\tài liệu\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\wideb\OneDrive\tài liệu\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
